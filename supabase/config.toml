@@ -1,0 +1,22 @@
+project_id = "rgptyjlxgqklwxayvlil"
+
+[functions.detect-hallucination]
+verify_jwt = false
+
+[functions.gpt-query]
+verify_jwt = false
+
+[functions.claude-query]
+verify_jwt = false
+
+[functions.gemini-query]
+verify_jwt = false
+
+[functions.wsd-analysis]
+verify_jwt = false
+
+[functions.evaluate-metrics]
+verify_jwt = false
+
+[functions.generate-dataset]
+verify_jwt = false
